@@ -19,6 +19,8 @@ prompts()
 pr = input("choose number: ")
 
 
+
+
 num = float((input("input first digit: ")))
 num1 = float((input ("input second digit: ")))
 num2 = float((input("input third digit: ")))
