@@ -14,6 +14,7 @@ def prompts():
     print("3. nultiplication")
 prompts()    
 
+#Prompting the user to input the digits to be operated 
 pr = input("choose number: ")
 
 num = float((input("input first digit: ")))
