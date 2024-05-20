@@ -6,4 +6,6 @@ def main_cylinder(radios, hight):
 
 radius = int(input("Enter the radius: "))
 hight = int(input("Enter the hight: "))
+volum = main_cylinder(radios, hight)
+print(f"The volume of the cylinder is: {volume}")
 
