@@ -1,2 +1,2 @@
 # python-simple-caculator
-*import math
+**import math
