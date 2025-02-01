@@ -15,7 +15,6 @@ def prompts():
 prompts()    
 
 #Prompting the user to input the digits to be operated
- 
 pr = input("choose number: ")
 num = float((input("input first digit: ")))
 num1 = float((input ("input second digit: ")))
